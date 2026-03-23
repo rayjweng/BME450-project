@@ -1,7 +1,7 @@
 # BME450-project
 # Title
 
-"Title of Project"
+"Grocery and Beverage image sorting for Food Pantry applications."
 
 ## Team members
 
